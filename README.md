@@ -1,8 +1,7 @@
-# React + Vite
+# ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this app anyone can set his or her to do list. MERN Stack technologies are used here. Some characteristics are described bellow:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Anyone can perform CRUD operation in a task.
+- Firebase is used here for authentication purpose.
+- An user have to login first to use this app.
